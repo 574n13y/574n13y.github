@@ -8,7 +8,7 @@
 <img src="images/headshot.jpg?raw=true"/><br>
 
 ---
-[Resume](/pdf/resume.pdf)
+[Resume](/pdf/Resume-VT.pdf)
 
 ---
 [Contact] <br>
