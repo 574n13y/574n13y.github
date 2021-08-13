@@ -1,0 +1,54 @@
+## Portfolio
+
+---
+
+### VIVESH TYAGI 
+
+[Cloud Specialist](/sample_page)
+<img src="images/headshot.jpg?raw=true"/><br>
+
+---
+[Resume](/pdf/resume.pdf)
+
+---
+[Contact](http://example.com/) <br>
+Phone : <a href="tel:+917906628122">790-662-8122</a> <br>
+Email ID : <a href="mailto:vivesht@gmail.com"> Gmail </a> || <a href="mailto:vivesht@yahoo.com"> Yahoo </a> <br>
+Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn !</a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank !</a> 
+
+---
+
+- 👋 Hi, I’m Vivesh Tyagi
+
+- 👨‍💻 Currently working as Cloud Specialist.☁️
+
+* Experience working with public cloud – Google
+* Experience in managing/maintaining various cloud-based platforms.
+* Familiarity with ITIL
+* Shell Scripting
+
+- 📜 About me - Empathy, Patience, Resolving Conflict, Phone skills, Positive Attitude, Active Listening, Team Work, Time Management, Critical Thinking.
+
+- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Laravel • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux
+
+- ⛰️🧗‍♂️ - Hobby :- Love Trekking
+
+- 👀 ⏳🍁
+
+---
+
+### Projects
+
+- [Coming Soon](http://example.com/)
+- [Coming Soon](http://example.com/)
+<br>
+
+
+  <footer>
+          <div id="copyright">
+                <div>
+                    <span>&copy; 2021 Made with ❤️</span>
+                    <span>by Vivesh Tyagi </span> 
+                </div>
+          </div>
+ </footer>
