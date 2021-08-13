@@ -40,7 +40,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 ### Projects
 
 - [Coming Soon](https://github.com/574n13y?tab=projects/)
--
+- [Coming Soon](https://github.com/574n13y?tab=projects/)
 
 <br>
 
