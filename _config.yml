@@ -1,7 +1,6 @@
 title: Vivesh Tyagi 
-logo: "/images/slidebar-bg.jpg?raw=true" 
-description: Cloud Engineer 
-theme: jekyll-theme-minimal
+description: Cloud Specialist 
+theme: jekyll-theme-dark
 
 github:
   is_project_page: false
