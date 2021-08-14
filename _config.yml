@@ -1,8 +1,6 @@
-# Site settings
 title: Vivesh Tyagi
-description: Jekyll Theme Minimal Resume
-
-exclude: ['package.json', 'src' , 'node_modules']
+#description: Jekyll Theme Minimal Resume
+theme: jekyll-theme-minimal
 
 github:
   is_project_page: false
