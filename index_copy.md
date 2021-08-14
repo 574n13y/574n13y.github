@@ -1,7 +1,8 @@
 ## [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 
 ---
-## <img src="image/headshot.jpg?raw=true"/><br>
+<img src="image/linkedin.JPG?raw=true"/>
+<img src="image/hackerrank.JPG?raw=true"/><br>
 
 ---
 [Resume](/pdf/Resume-VT.pdf)
