@@ -9,6 +9,6 @@ theme: jekyll-theme-minimal
 #plugins:
 #- jekyll-remote-theme
 exclude:
-        - description
+        -  description
 github:
   is_project_page: false
