@@ -1,6 +1,5 @@
-### [VIVESH TYAGI]
+### [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br> <br> <br>
 
-[Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 <img src="image/headshot.jpg?raw=true"/><br>
 
 ---
