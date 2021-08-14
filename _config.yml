@@ -1,7 +1,7 @@
 title: Vivesh Tyagi 
 # description: Cloud Specialist 
 logo: "/image/headshot.png?raw=true"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal_mistakes_skin
 
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 #theme: jekyll-theme
