@@ -1,8 +1,5 @@
-## Portfolio
-
 ---
-
-### VIVESH TYAGI 
+#### [VIVESH TYAGI](https://574n13y.github.io/)
 
 [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 <img src="image/headshot.jpg?raw=true"/><br>
@@ -14,7 +11,7 @@
 [Contact] <br>
 Phone : <a href="tel:+917906628122">790-662-8122</a> <br>
 Email ID : <a href="mailto:vivesht@gmail.com"> Gmail </a> || <a href="mailto:vivesht@yahoo.com"> Yahoo </a> <br>
-Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn !</a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank !</a> 
+Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn !</a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank !</a> || <a href="https://github.com/574n13y/" target="_blank"> Github !</a>
 
 ---
 
