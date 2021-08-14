@@ -26,7 +26,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 - 📜 About me - Empathy, Patience, Resolving Conflict, Phone skills, Positive Attitude, Active Listening, Team Work, Time Management, Critical Thinking.
 
-- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Laravel • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux
+- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Ruby • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux • Shell Scripting
 
 - ⛰️🧗‍♂️ - Hobby :- Love Trekking
 
