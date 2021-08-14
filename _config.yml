@@ -1,33 +1,8 @@
-title: "Vivesh Tyagi"
+# Site settings
+title: Vivesh Tyagi
+description: Jekyll Theme Minimal Resume
 
-defaults:
-- scope:
-    path: ""
-    type: authors
-  values:
-    layout: author
-
-
-collections:
-  authors: Vivesh
-    output: true
-    permalink: /~:name
-
-
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-sass:
-  style:    expanded
-
-plugins:
-- jekyll-avatar
-
-safe: true
-lsi: false
+exclude: ['package.json', 'src' , 'node_modules']
 
 github:
   is_project_page: false
