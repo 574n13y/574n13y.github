@@ -1,5 +1,4 @@
----
-### [VIVESH TYAGI](https://574n13y.github.io)
+### [VIVESH TYAGI]
 
 [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 <img src="image/headshot.jpg?raw=true"/><br>
@@ -40,6 +39,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 - [Coming Soon](https://github.com/574n13y?tab=projects/)
 
 <br>
+
 
  <footer>
           <div id="copyright">
