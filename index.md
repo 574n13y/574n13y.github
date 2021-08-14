@@ -1,5 +1,5 @@
 ---
-##### [VIVESH TYAGI](https://574n13y.github.io/)
+### [VIVESH TYAGI](https://574n13y.github.io/)
 
 [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 <img src="image/headshot.jpg?raw=true"/><br>
