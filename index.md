@@ -1,5 +1,9 @@
 ## [Cloud Specialist @ UKG - (Ultimate Kronos Group)](https://www.ukg.com/) <br>
 
+
+## Cloud Platforms ![70%](https://progress-bar.dev/70)   Customer Experience ![100%](https://progress-bar.dev/100)   Leadership ![90%](https://progress-bar.dev/90)
+## Web Development ![70%](https://progress-bar.dev/70)   Enthusiast Learner ![100%](https://progress-bar.dev/100)  Internet Of Things ![50%](https://progress-bar.dev/50)
+
 ---
 <img src="image/linkedin.JPG?raw=true"/>
 <img src="image/hackerrank.JPG?raw=true"/><br>
