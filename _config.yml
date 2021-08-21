@@ -10,7 +10,7 @@ theme: jekyll-theme-minimal
 #remote_theme: pages-themes/hacker@v0.2.0
 #plugins:
 #- jekyll-remote-theme
-exclude:
-        -  description
+#exclude:
+ #       -  description
 github:
   is_project_page: false
