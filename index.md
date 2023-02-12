@@ -15,7 +15,7 @@
 ### Contact <br>
 Phone : <a href="tel:+917906628122">790-662-8122</a> <br>
 Email ID : <a href="mailto:vivesht@gmail.com"> Gmail </a> || <a href="mailto:vivesht@yahoo.com"> Yahoo </a> <br>
-Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn </a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank </a> || <a href="https://574n13y.blogspot.com/" target="_blank"> Blog </a>
+Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn </a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank </a> || <a href="https://574n13y.blogspot.com/" target="_blank"> Blog </a> || <a href="https://www.cloudskillsboost.google/public_profiles/7af5f863-60ce-406d-b745-211af4c436e2" target="_blank"> Google Cloud Skills Boost </a>
 
 ---
 ### Intro <br>
@@ -30,7 +30,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 - 📜 About me - Empathy, Patience, Resolving Conflict, Phone skills, Positive Attitude, Active Listening, Team Work, Time Management, Critical Thinking.
 
-- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Ruby • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux • Shell Scripting
+- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux • Shell Scripting
 
 - ⛰️🧗‍♂️ - Hobby :- Love Trekking
 
