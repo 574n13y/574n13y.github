@@ -40,10 +40,21 @@ href="https://www.coursera.org/account/accomplishments/professional-cert/44PRU76
 
 ---
 
-### Certifications 
+### Certificates
+- [AWS Inprogress](https://github.com/574n13y?tab=projects/
+- [Terraform](https://github.com/574n13y?tab=projects/
+- [GCP](https://github.com/574n13y?tab=projects/
+- [Google Data Analytics](<a href="https://www.coursera.org/account/accomplishments/professional-cert/44PRU76VN6RR" target="_blank"></a>)
+- [Kubernetes_Inprogress](https://github.com/574n13y?tab=projects/)
 
-- [Coming Soon](https://github.com/574n13y?tab=projects/)
-- [Coming Soon](https://github.com/574n13y?tab=projects/)
+---
+
+### Projects
+- [AWS Comming Soon](https://github.com/574n13y?tab=projects/
+- [Mini project on AWS Coming Soon](https://github.com/574n13y?tab=projects/
+- [Mini Project on GCP Coming Soon](https://github.com/574n13y?tab=projects/
+- [Terraform](https://github.com/574n13y/Terraform)
+- [GCP Project Coming Soon](https://github.com/574n13y?tab=projects/)
 
 <br>
 
