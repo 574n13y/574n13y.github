@@ -39,7 +39,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 ---
 
-### Certificates
+### Certificates & Badges
 - [AWS Certified SysOps Administrator - Associate_Inprogress 5Nov2023](https://www.credly.com/users/vivesh-tyagi/badges)
 - [AWS Certified Solutions Architect - Associate_Inprogress](https://www.credly.com/users/vivesh-tyagi/badges)
 - [Terraform](https://www.credly.com/badges/38d12f01-bd5a-4abf-ab3d-ad649355bc2d)
