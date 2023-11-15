@@ -41,8 +41,9 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 ### Certificates & Badges
 
-- [Terraform](https://www.credly.com/badges/38d12f01-bd5a-4abf-ab3d-ad649355bc2d){:target="_blank"}  
-- [AWS Certified Solutions Architect - Associate - Udemy](https://www.udemy.com/certificate/UC-f7d8387c-36f2-4cc5-adaa-6c0e158d7963/){:target="_blank"} 
+- [Terraform](https://www.credly.com/badges/38d12f01-bd5a-4abf-ab3d-ad649355bc2d){:target="_blank"}
+- [AWS Certified Solutions Architect - Associate - Udemy](https://www.udemy.com/certificate/UC-f7d8387c-36f2-4cc5-adaa-6c0e158d7963/){:target="_blank"}
+- [Multicloud Network Associate](https://www.credly.com/badges/792d788c-25fd-456c-b7b0-a9e551a2d898){:target="_blank"}
 - [GCP](https://www.cloudskillsboost.google/public_profiles/7af5f863-60ce-406d-b745-211af4c436e2){:target="_blank"} 
 - [Google Data Analytics](https://www.credly.com/badges/25edda88-babc-4129-a074-26f74690d18c){:target="_blank"} 
 
