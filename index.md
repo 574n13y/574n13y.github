@@ -13,7 +13,7 @@
 
 ---
 ### Contact <br>
-Phone : <a href="tel:+917017641994">701-764-1994</a> <br>
+Phone : <a href="tel:+918952060434">895-206-0434</a> <br>
 Email ID : <a href="mailto:vivesht@gmail.com"> Gmail </a> || <a href="mailto:vivesht@yahoo.com"> Yahoo </a> <br>
 Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" target="_blank"> LinkedIn </a> || <a href="https://www.hackerrank.com/vivesht/" target="_blank"> Hackerrank </a> || <a href="https://574n13y.blogspot.com/" target="_blank"> Blog </a> || <a href="https://www.coursera.org/account/accomplishments/certificate/ZKBBQ6UGNPAD" target="_blank"> Python </a>
 
