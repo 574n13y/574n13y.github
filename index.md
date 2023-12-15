@@ -53,8 +53,8 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 ### Projects
 
-- [Mini project on AWS Coming Soon](https://github.com/574n13y?tab=repositories){:target="_blank"} 
-- [Mini Project on GCP Coming Soon](https://github.com/574n13y?tab=repositories){:target="_blank"}
+- [Mini projecton on AWS ](https://github.com/574n13y?tab=repositories){:target="_blank"} 
+- [Mini Project on GCP ](https://github.com/574n13y?tab=repositories){:target="_blank"}
 - [Terraform](https://github.com/574n13y/Terraform){:target="_blank"}
 - [AWS](https://github.com/574n13y/Aws){:target="_blank"} 
 - [GCP](https://github.com/574n13y/GCP){:target="_blank"} 
