@@ -62,6 +62,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
 
  <footer>
           <div id="copyright">
