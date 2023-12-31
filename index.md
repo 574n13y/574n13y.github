@@ -63,6 +63,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
+[![Website](https://github.com/574n13y/574n13y.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/574n13y/574n13y.github.io/actions/workflows/jekyll-gh-pages.yml)
 
  <footer>
           <div id="copyright">
