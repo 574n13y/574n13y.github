@@ -55,16 +55,16 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 - [AWS](https://574n13y.github.io/Aws/){:target="_blank"}
 - [Devops project with Terraform](https://574n13y.github.io/Devops_project_1-Terraform-aws-3tier/){:target="_blank"}
-- [terra-stack ](https://github.com/574n13y/terra-stack){:target="_blank"}
+- [terra-stack ](https://574n13y.github.io/terra-stack/){:target="_blank"}
 - [Terraform-Jenkins-CICD](https://574n13y.github.io/Terraform-Jenkins-CICD/){:target="_blank"}
 - [Deploy a sample app using Kubernetes](https://574n13y.github.io/Deploy-a-sample-app---Kubernetes/){:target="_blank"}
 - [Google-Pub-Subtopic](https://574n13y.github.io/Google-Pub-Subtopic/){:target="_blank"}
+- [Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes--> in progress](https://574n13y.github.io/Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes/){:target="_blank"}
 - [Terraform](https://574n13y.github.io/Terraform/){:target="_blank"}
 - [Mini project on AWS ](https://github.com/574n13y?tab=repositories){:target="_blank"}
 - [Mini Project on GCP ](https://github.com/574n13y?tab=repositories){:target="_blank"}
 - [Grafana Monitoring--> in progress](){:target="_blank"}
 - [Deploying-a-photo-sharing-website--> in progress](){:target="_blank"}
-- [Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes--> in progress](){:target="_blank"}
 - 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
