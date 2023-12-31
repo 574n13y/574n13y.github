@@ -53,12 +53,20 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 
 ### Projects
 
-- [Mini project on AWS ](https://github.com/574n13y?tab=repositories){:target="_blank"} 
-- [Mini Project on GCP ](https://github.com/574n13y?tab=repositories){:target="_blank"}
+- [AWS](https://574n13y.github.io/Aws/){:target="_blank"}
+- [Devops project with Terraform](https://574n13y.github.io/Devops_project_1-Terraform-aws-3tier/){:target="_blank"}
 - [terra-stack ](https://github.com/574n13y/terra-stack){:target="_blank"}
-- [Terraform](https://github.com/574n13y/Terraform){:target="_blank"}
-- [AWS](https://github.com/574n13y/Aws){:target="_blank"} 
-- [GCP](https://github.com/574n13y/GCP){:target="_blank"} 
+- [Terraform-Jenkins-CICD](https://574n13y.github.io/Terraform-Jenkins-CICD/){:target="_blank"}
+- [Deploy a sample app using Kubernetes](https://574n13y.github.io/Deploy-a-sample-app---Kubernetes/){:target="_blank"}
+- [Google-Pub-Subtopic](https://574n13y.github.io/Google-Pub-Subtopic/){:target="_blank"}
+- [Terraform](https://574n13y.github.io/Terraform/){:target="_blank"}
+- [Mini project on AWS ](https://github.com/574n13y?tab=repositories){:target="_blank"}
+- [Mini Project on GCP ](https://github.com/574n13y?tab=repositories){:target="_blank"}
+- [Grafana Monitoring--> in progress](){:target="_blank"}
+- [Deploying-a-photo-sharing-website--> in progress](){:target="_blank"}
+- [Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes--> in progress](){:target="_blank"}
+
+
 
 <br>
 
