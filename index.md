@@ -59,7 +59,7 @@ Social Link : <a href="https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/" targe
 - [Terraform-Jenkins-CICD](https://574n13y.github.io/Terraform-Jenkins-CICD/){:target="_blank"}
 - [Deploy a sample app using Kubernetes](https://574n13y.github.io/Deploy-a-sample-app---Kubernetes/){:target="_blank"}
 - [Google-Pub-Subtopic](https://574n13y.github.io/Google-Pub-Subtopic/){:target="_blank"}
-- [Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes--> in progress](https://574n13y.github.io/Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes/){:target="_blank"}
+- [Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes](https://574n13y.github.io/Deploy-a-Microservices-Application-on-AWS-EC2-using-Kubernetes/){:target="_blank"}
 - [Terraform](https://574n13y.github.io/Terraform/){:target="_blank"}
 - [Mini project on AWS ](https://github.com/574n13y?tab=repositories){:target="_blank"}
 - [Mini Project on GCP ](https://github.com/574n13y?tab=repositories){:target="_blank"}
